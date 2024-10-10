@@ -1,0 +1,31 @@
+{
+  "id": "blints-homebrew-stuff",
+  "title": "Blint's homebrew stuff",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "blints-homebrew-compendiums",
+      "label": "Blint's Homebrew Compendiums",
+      "path": "packs/blints-homebrew-compendiums",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
