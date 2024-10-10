@@ -27,5 +27,8 @@
       },
       "system": "dnd5e"
     }
-  ]
+  ],
+  "url": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs",
+  "manifest": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs/releases/latest/download/module.json",
+  "download": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs/releases/latest/download/module.zip"
 }
