@@ -1,7 +1,7 @@
 {
   "id": "blints-homebrew-stuff",
   "title": "Blint's homebrew stuff",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -21,14 +21,14 @@
       "label": "Blint's Homebrew Compendiums",
       "path": "packs/blints-homebrew-compendiums",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "url": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs",
   "manifest": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs/releases/latest/download/module.json",
-  "download": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs/archive/refs/tags/v1.0.4.zip"
+  "download": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs/archive/refs/tags/v1.0.5.zip"
 }
