@@ -1,8 +1,15 @@
-2024/10/11-11:41:22.678974 ffffa8f3ea30 Recovering log #12
-2024/10/11-11:41:22.700211 ffffa8f3ea30 Delete type=3 #10
-2024/10/11-11:41:22.700317 ffffa8f3ea30 Delete type=0 #12
-2024/10/11-12:38:50.919870 fffda6d44a30 Level-0 table #18: started
-2024/10/11-12:38:50.919941 fffda6d44a30 Level-0 table #18: 0 bytes OK
-2024/10/11-12:38:50.932775 fffda6d44a30 Delete type=0 #16
-2024/10/11-12:38:50.933453 fffda6d44a30 Manual compaction at level-0 from '!folders!6rQsEqQxbOtQgTzW' @ 72057594037927935 : 1 .. '!items.effects!VmzPKCKVh440dmbe.IC5JwTyKf2UsYjsx' @ 0 : 0; will stop at (end)
-2024/10/11-12:38:50.946504 fffda6d44a30 Manual compaction at level-1 from '!folders!6rQsEqQxbOtQgTzW' @ 72057594037927935 : 1 .. '!items.effects!VmzPKCKVh440dmbe.IC5JwTyKf2UsYjsx' @ 0 : 0; will stop at (end)
+2024/10/11-13:35:05.196096 ffffa8f3ea30 Recovering log #17
+2024/10/11-13:35:05.226740 ffffa8f3ea30 Delete type=3 #15
+2024/10/11-13:35:05.227039 ffffa8f3ea30 Delete type=0 #17
+2024/10/11-15:14:10.580960 fffda6d44a30 Level-0 table #22: started
+2024/10/11-15:14:10.600874 fffda6d44a30 Level-0 table #22: 167842 bytes OK
+2024/10/11-15:14:10.614682 fffda6d44a30 Delete type=0 #20
+2024/10/11-15:14:10.615964 fffda6d44a30 Manual compaction at level-0 from '!folders!6rQsEqQxbOtQgTzW' @ 72057594037927935 : 1 .. '!items.effects!VmzPKCKVh440dmbe.IC5JwTyKf2UsYjsx' @ 0 : 0; will stop at (end)
+2024/10/11-15:14:10.657335 fffda6d44a30 Manual compaction at level-1 from '!folders!6rQsEqQxbOtQgTzW' @ 72057594037927935 : 1 .. '!items.effects!VmzPKCKVh440dmbe.IC5JwTyKf2UsYjsx' @ 0 : 0; will stop at '!items!z7krgM9IRoqfQqxx' @ 64 : 1
+2024/10/11-15:14:10.657383 fffda6d44a30 Compacting 1@1 + 1@2 files
+2024/10/11-15:14:10.676230 fffda6d44a30 Generated table #23@1: 57 keys, 128772 bytes
+2024/10/11-15:14:10.676339 fffda6d44a30 Compacted 1@1 + 1@2 files => 128772 bytes
+2024/10/11-15:14:10.689594 fffda6d44a30 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/11-15:14:10.690032 fffda6d44a30 Delete type=2 #14
+2024/10/11-15:14:10.690631 fffda6d44a30 Delete type=2 #22
+2024/10/11-15:14:10.691371 fffda6d44a30 Manual compaction at level-1 from '!items!z7krgM9IRoqfQqxx' @ 64 : 1 .. '!items.effects!VmzPKCKVh440dmbe.IC5JwTyKf2UsYjsx' @ 0 : 0; will stop at (end)

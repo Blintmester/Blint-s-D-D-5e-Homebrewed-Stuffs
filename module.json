@@ -26,6 +26,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "blints-homebrew-characters",
+      "label": "Blint's Homebrew Characters",
+      "path": "packs/blints-homebrew-characters",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "url": "https://github.com/Blintmester/Blint-s-D-D-5e-Homebrewed-Stuffs",
